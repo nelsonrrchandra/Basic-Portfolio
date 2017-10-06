@@ -1,0 +1,216 @@
+body 	{
+		background-image: url("../images/gray_jean.png");
+		}
+
+.NavBar {
+		/*layout*/
+		position:fixed;
+		top:0px;
+		height: 75px;
+		width: 100%;
+		z-index: 1;
+		/*formatting*/
+		background-color: #ffffff;
+		border-style:solid;
+		border-width: 2px;
+		border-color: #cccccc;
+		}
+
+.NavLinks {
+		/*layout*/
+		position:absolute;
+		padding: 30px;
+		left: 800px;
+		/*formatting*/
+		color:#777777;
+		}
+
+a 		{
+		color:#777777;
+		}
+
+h1 		{
+		/*layout*/
+		position: absolute;
+		height: 60px;
+		padding-top: 15px;
+		width: 400px;
+		left: 100px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		font-family: 'Georgia', Times, Times New Roman, serif;
+		color: white;
+		font-size: 40px;
+		text-align: center;
+		font-weight: bold;
+		}
+
+h2 		{
+		font-family: 'Georgia', Times, Times New Roman, serif;
+		color:#4aaaa5;
+		font-size: 25px;
+		padding-top:15px;
+		padding-left: 20px;
+		font-weight: bold;
+		}
+
+.MainContents{
+		/*layout*/
+		position: relative;
+		margin-top: 100;
+		width: 960px;
+		/*formatting*/
+		color:#777777;
+		}
+
+hr 		{
+		width: 85%;
+		}
+
+.AboutSection {
+		/*layout*/
+		position: absolute;
+		top: 125px;
+		width: 650px;
+		left: 100px;
+		/*formatting*/
+		background-color: #ffffff;
+		border-style:solid;
+		border-width: 1px;
+		border-color: #cccccc;
+		}
+
+.ProfilePic {
+		float: left;
+		width: 200px;
+		height: 100px;
+		padding: 15px 10px 0px 30px;
+		}
+
+.PortfolioPic {
+		width: 290px;
+		height: 140px;
+		padding: 10px 5px 10px 20px;
+		}
+
+.PortfolioCard1{
+		/*layout*/
+		position:absolute;
+		width: 290px;
+		height: 40px;
+		margin: 10px 5px 10px 20px;
+		top: 150px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		}
+
+.PortfolioCard2{
+		/*layout*/
+		position:absolute;
+		width: 290px;
+		height: 40px;
+		margin: 10px 5px 10px 20px;
+		top: 150px;
+		left: 319px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		}
+
+.PortfolioCard3{
+		/*layout*/
+		position:absolute;
+		width: 290px;
+		height: 40px;
+		margin: 10px 5px 10px 20px;
+		top: 315px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		}
+
+.PortfolioCard4{
+		/*layout*/
+		position:absolute;
+		width: 290px;
+		height: 40px;
+		margin: 10px 5px 10px 20px;
+		top: 315px;
+		left: 319px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		}
+
+.PortfolioCard5{
+		/*layout*/
+		position:absolute;
+		width: 290px;
+		height: 40px;
+		margin: 10px 5px 10px 20px;
+		top: 480px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		}
+
+.PortfolioCard6{
+		/*layout*/
+		position:absolute;
+		width: 290px;
+		height: 40px;
+		margin: 10px 5px 10px 20px;
+		top: 480px;
+		left: 319px;
+		/*formatting*/
+		background-color: #4aaaa5;
+		}
+
+.PortfolioText{
+		color: white;
+		text-align: center;
+		padding: 10px;
+		}
+
+.ContactIcons {
+		/*layout*/
+		position: absolute;
+		top: 125px;
+		width: 270px;
+		left: 800px;
+		/*formatting*/
+		background-color: #ffffff;
+		border-style:solid;
+		border-width: 1px;
+		border-color: #cccccc;
+		}
+
+.Footer {
+		/*layout*/
+		position:relative;
+		bottom: -800px;
+		height: 75px;
+		width: 100%;
+		/*formatting*/
+		background-color: #666666;
+		border-style:solid;
+		border-width: 2px;
+		border-color: #4aaaa5;
+		color: white;
+		font-size: 80%;
+		}
+
+.Padding{
+		margin: auto;
+		width: 90%;
+		padding: 15px;
+		}
+
+.FormText{
+		margin: auto;
+		padding: 15px;
+		}
+
+.SubmitButton{
+		
+		}
+
+.Center {
+		text-align: center;
+		}
